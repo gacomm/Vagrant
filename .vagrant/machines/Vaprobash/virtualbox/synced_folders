@@ -1,0 +1,1 @@
+{"nfs":{"core":{"id":"core","nfs":true,"mount_options":["nolock,vers=3,udp,noatime"],"guestpath":"/vagrant","hostpath":"/Applications/MAMP/htdocs/vagrant","disabled":false,"type":"nfs","map_uid":2611,"map_gid":80,"nfs_udp":true,"nfs_version":3,"uuid":"1035953442"}}}
